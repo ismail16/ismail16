@@ -13,7 +13,7 @@
 ### 🖋️ Professional Summary
 I architect and optimize mission-critical web ecosystems. With over 7 years of engineering experience, I specialize in the **Laravel/Vue.js** stack, delivering high-concurrency solutions for the USA, EU, and Australian markets. My work is defined by a rigorous commitment to **latency reduction**, **SaaS scalability**, and **clean, SOLID architecture**.
 
-[**Portfolio**](https://ismail.picodeit.com) • [**LinkedIn**](https://linkedin.com/in/ismail16) • [**Contact**](mailto:ismail32cse@gmail.com)
+[**Portfolio**](https://ismail.picodeit.com) • [**LinkedIn**](https://www.linkedin.com/in/ismailhossain94) • [**Contact**](mailto:ismail32cse@gmail.com)
 
 ---
 
