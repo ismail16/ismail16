@@ -3,7 +3,7 @@
 **Specializing in High-Performance SaaS Architecture & System Optimization**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Senior_Engineer-7+_Years-0052CC?style=flat-square&logo=expert-city" />
+  <img src="https://img.shields.io/badge/Senior_Engineer-6+_Years-0052CC?style=flat-square&logo=expert-city" />
   <img src="https://img.shields.io/badge/Stack-Laravel_%7C_Vue.js-FF2D20?style=flat-square&logo=laravel" />
   <img src="https://img.shields.io/badge/Focus-System_Scale-00b894?style=flat-square" />
 </p>
