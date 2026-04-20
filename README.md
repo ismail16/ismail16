@@ -27,7 +27,6 @@ I am a Laravel developer with 6+ years of experience building web applications, 
 🌐 Frontend
 * Vue.js
 * Axios
-* Inertia.js
 
 🚀 DevOps
 
