@@ -1,50 +1,56 @@
+
+
 # Ismail Hossain
-**Senior Full Stack Software Engineer *Specializing in High-Performance Web Ecosystems & Scalable SaaS Architecture*
+### Senior Full Stack Software Engineer 
+**Specializing in High-Performance SaaS Architecture & System Optimization**
 
-
-### 🌐 Professional Profile
-With **6+ years of professional engineering**, I specialize in transforming complex business requirements into robust technical solutions. My approach combines deep technical expertise in the **Laravel/Vue.js** stack with a rigorous focus on **Systems Performance** and **Technical SEO**. As the founder of **PICodeIT**, I lead digital transformation for clients across the USA, EU, and Australia.
-
-[Portfolio](https://www.ismail.picodeit.com) • [LinkedIn](https://www.linkedin.com/in/ismail16) • [WhatsApp](https://wa.me/+8801686254438)
-•Email: `ismail32cse@gmail.com`  •Availability:** 10:00 - 20:00 (GMT+6)
-
-
-### 🚀 Performance & Impact
-I don't just build features; I optimize for growth. 
-
-* **System Optimization:** Engineered a performance overhaul for an Australian E-commerce giant, reducing TTI (Time to Interactive) from **9.2s to 2.8s**, directly impacting conversion rates.
-* **SaaS Architecture:** Designed and deployed **Pi-School**, a multi-tenant ERP system handling complex financial and academic workflows for educational institutions.
-* **Infrastructure:** Expertise in designing secure, scalable API architectures and optimizing MySQL database schemas for high-concurrency environments.
-
-
-### 🛠️ Strategic Tech Stack
-
-| Domain | Expert Proficiency 
-| **Backend Engineering** | PHP 8.3, Laravel (Eloquent, Service Patterns), RESTful Design |
-| **Frontend Architecture** | Vue.js 3 (Composition API), TypeScript |
-| **Database & Scale** | MySQL Index Optimization, Redis Caching, N+1 Query Resolution |
-| **DevOps & Cloud** | Docker, Nginx Configuration, CI/CD Pipelines, Linux Server Admin |
-| **Optimization** | Core Web Vitals, Technical SEO, Load Balancing, Security Hardening |
-
-
-
-### 🔬 Core Philosophy: SOLID & Scalable
-I believe in code that outlives its initial requirements. My development process is guided by:
-* **SOLID Principles** for maintainable, decoupled codebases.
-* **Dry & Clean Code** to minimize technical debt.
-* **Security-First Mindset** (OWASP standards, JWT/Sanctum implementation).
-
-
-### 📈 Contribution & Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail16&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail16&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" height="150" />
+  <img src="https://img.shields.io/badge/Senior_Engineer-7+_Years-0052CC?style=flat-square&logo=expert-city" />
+  <img src="https://img.shields.io/badge/Stack-Laravel_%7C_Vue.js-FF2D20?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/Focus-System_Scale-00b894?style=flat-square" />
 </p>
 
+---
 
-### 📫 Let's Build Something Exceptional
-I am currently available for high-level technical consultations, SaaS architecture planning, and performance optimization projects.
+### 🖋️ Professional Summary
+I architect and optimize mission-critical web ecosystems. With over 7 years of engineering experience, I specialize in the **Laravel/Vue.js** stack, delivering high-concurrency solutions for the USA, EU, and Australian markets. My work is defined by a rigorous commitment to **latency reduction**, **SaaS scalability**, and **clean, SOLID architecture**.
 
+[**Portfolio**](https://ismail.picodeit.com) • [**LinkedIn**](https://linkedin.com/in/ismail16) • [**Contact**](mailto:ismail32cse@gmail.com)
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Focus Area | Tech Stack & Tooling |
+| :--- | :--- |
+| **Backend Architecture** | PHP 8.3, Laravel (Advanced Eloquent, Service Patterns), RESTful/GraphQL |
+| **Frontend Engineering** | Vue.js 3 (Composition API), TypeScript, Inertia.js, Tailwind CSS |
+| **Performance & Scale** | MySQL Optimization, Redis Caching, N+1 Resolution, Core Web Vitals |
+| **DevOps & Cloud** | Docker, Nginx, CI/CD Pipelines, Linux Server Hardening |
+
+---
+
+### 🚀 Technical Impact
+
+* **Performance Engineering:** Optimized an enterprise Australian e-commerce platform, reducing TTI from **9.2s to 2.8s** through database indexing and frontend refactoring.
+* **Scalable SaaS:** Designed and deployed **Pi-School**, a multi-tenant ERP system capable of handling complex academic and financial workflows.
+* **Infrastructure:** Extensive experience in designing secure API architectures and optimizing MySQL schemas for high-load environments.
+
+---
+
+### 🔬 Core Engineering Principles
+
+* **Maintainability:** Adherence to **SOLID** and **DRY** principles to ensure codebases are future-proof.
+* **Security:** Implementation of OWASP standards, JWT, and Laravel Sanctum for robust data protection.
+* **Performance-First:** A methodology centered on the belief that speed is a core feature, not an afterthought.
+
+---
+
+### 📫 Strategic Consultations
+I am available for technical leadership, SaaS architecture planning, and performance optimization audits.
+
+* **Location:** Dhaka, Bangladesh (GMT+6)
+* **Communication:** [WhatsApp](https://wa.me/8801686254438) / [Email](mailto:ismail32cse@gmail.com)
 
 <p align="center">
   <sub>"Engineering is the art of making what is actually difficult look easy."</sub>
