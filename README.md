@@ -1,68 +1,51 @@
-👋 Hi, I'm Ismail
-🚀 Laravel Developer | Backend Engineer | Vue.js Developer
+# Ismail Hossain
+**Senior Full Stack Software Engineer *Specializing in High-Performance Web Ecosystems & Scalable SaaS Architecture*
 
-I am a Laravel developer with 6+ years of experience building web applications, APIs, and SaaS platforms. I specialize in backend development, API architecture, and performance optimization.
 
----
+### 🌐 Professional Profile
+With **6+ years of professional engineering**, I specialize in transforming complex business requirements into robust technical solutions. My approach combines deep technical expertise in the **Laravel/Vue.js** stack with a rigorous focus on **Systems Performance** and **Technical SEO**. As the founder of **PICodeIT**, I lead digital transformation for clients across the USA, EU, and Australia.
 
-🧠 Skills
+[Portfolio](https://www.ismail.picodeit.com) • [LinkedIn](https://www.linkedin.com/in/ismail16) • [WhatsApp](https://wa.me/+8801686254438)
+•Email: `ismail32cse@gmail.com`  •Availability:** 10:00 - 20:00 (GMT+6)
 
-🔧 Backend
-* PHP (OOP, SOLID)
-* Laravel (Advanced)
-* REST API Development
-* Authentication (Sanctum, JWT)
-* Queue System (Redis, Jobs)
 
-🗄️ Database
-* MySQL (Indexing, Optimization)
-* Query Optimization
-* Database Design
+### 🚀 Performance & Impact
+I don't just build features; I optimize for growth. 
 
-⚡ Performance & Tools
-* Caching (Redis)
-* Debugging & Optimization
-* Git (Advanced)
+* **System Optimization:** Engineered a performance overhaul for an Australian E-commerce giant, reducing TTI (Time to Interactive) from **9.2s to 2.8s**, directly impacting conversion rates.
+* **SaaS Architecture:** Designed and deployed **Pi-School**, a multi-tenant ERP system handling complex financial and academic workflows for educational institutions.
+* **Infrastructure:** Expertise in designing secure, scalable API architectures and optimizing MySQL database schemas for high-concurrency environments.
 
-🌐 Frontend
-* Vue.js
-* Axios
 
-🚀 DevOps
+### 🛠️ Strategic Tech Stack
 
-* Docker (Learning & Practicing)
-* Linux Basics
-* Nginx
+| Domain | Expert Proficiency 
+| **Backend Engineering** | PHP 8.3, Laravel (Eloquent, Service Patterns), RESTful Design |
+| **Frontend Architecture** | Vue.js 3 (Composition API), TypeScript |
+| **Database & Scale** | MySQL Index Optimization, Redis Caching, N+1 Query Resolution |
+| **DevOps & Cloud** | Docker, Nginx Configuration, CI/CD Pipelines, Linux Server Admin |
+| **Optimization** | Core Web Vitals, Technical SEO, Load Balancing, Security Hardening |
 
-💼 Experience
-* 6+ years working with Laravel
-* Built multiple web applications and APIs
-* Worked on real client projects (Freelance & Marketplace)
-* Experience with payment integration (Stripe, PayPal)
-* API integrations with third-party services
 
-📂 Featured Projects
 
-🔹 SaaS Application (In Progress)
-* Multi-tenant system
-* Subscription billing
-* Laravel + Vue.js + Docker
+### 🔬 Core Philosophy: SOLID & Scalable
+I believe in code that outlives its initial requirements. My development process is guided by:
+* **SOLID Principles** for maintainable, decoupled codebases.
+* **Dry & Clean Code** to minimize technical debt.
+* **Security-First Mindset** (OWASP standards, JWT/Sanctum implementation).
 
-🔹 REST API Project
-* Authentication system
-* Role & permission
-* Clean architecture
 
-🔹 Queue System Demo
-* Background jobs
-* Email queue using Redis
+### 📈 Contribution & Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismail16&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail16&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" height="150" />
+</p>
 
-📈 Current Focus
-* Improving API architecture
-* Learning Docker & DevOps
-* Building scalable SaaS applications
 
-📫 Contact Me
-* Email: 
-* LinkedIn: 
-* Fiverr/Upwork: 
+### 📫 Let's Build Something Exceptional
+I am currently available for high-level technical consultations, SaaS architecture planning, and performance optimization projects.
+
+
+<p align="center">
+  <sub>"Engineering is the art of making what is actually difficult look easy."</sub>
+</p>
