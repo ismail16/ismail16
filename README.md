@@ -21,12 +21,12 @@ I architect and optimize mission-critical web ecosystems. With over 7 years of e
 
 | Focus Area | Tech Stack & Tooling |
 | :--- | :--- |
-| **Backend Architecture** | PHP 8.3, Laravel (Advanced Eloquent, Service Patterns), RESTful |
-| **Frontend Engineering** | Vue.js 3 (Composition API), TypeScript |
-| **Performance & Scale** | MySQL Optimization, Redis Caching, N+1 Resolution, Core Web Vitals |
+| **Backend Architecture** | `PHP 8.3` `Laravel (Advanced Eloquent, Service Patterns)` `RESTful` |
+| **Frontend Engineering** | `Vue.js 3 (Composition API)` `TypeScript` |
+| **Performance & Scale** | `MySQL Optimization` `Redis Caching` `N+1 Resolution` `Core Web Vitals` |
 | **Integrations** | `Stripe` `PayPal` `2Checkout` `Third-party APIs` |
 | **Environment** | `Linux` `Git (GitHub/GitLab/Bitbucket)` `Docker` |
-| **DevOps & Cloud** | Docker, Nginx, CI/CD Pipelines, Linux Server Hardening |
+| **DevOps & Cloud** | `Docker` `Nginx` `CI/CD Pipelines` `Linux Server Hardening` |
 
 ---
 
