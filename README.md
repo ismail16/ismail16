@@ -1,16 +1,69 @@
-## Hi there 👋
+👋 Hi, I'm Ismail
+🚀 Laravel Developer | Backend Engineer | Vue.js Developer
 
-<!--
-**ismail16/ismail16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Laravel developer with 6+ years of experience building web applications, APIs, and SaaS platforms. I specialize in backend development, API architecture, and performance optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Skills
+
+🔧 Backend
+* PHP (OOP, SOLID)
+* Laravel (Advanced)
+* REST API Development
+* Authentication (Sanctum, JWT)
+* Queue System (Redis, Jobs)
+
+🗄️ Database
+* MySQL (Indexing, Optimization)
+* Query Optimization
+* Database Design
+
+⚡ Performance & Tools
+* Caching (Redis)
+* Debugging & Optimization
+* Git (Advanced)
+
+🌐 Frontend
+* Vue.js
+* Axios
+* Inertia.js
+
+🚀 DevOps
+
+* Docker (Learning & Practicing)
+* Linux Basics
+* Nginx
+
+💼 Experience
+* 6+ years working with Laravel
+* Built multiple web applications and APIs
+* Worked on real client projects (Freelance & Marketplace)
+* Experience with payment integration (Stripe, PayPal)
+* API integrations with third-party services
+
+📂 Featured Projects
+
+🔹 SaaS Application (In Progress)
+* Multi-tenant system
+* Subscription billing
+* Laravel + Vue.js + Docker
+
+🔹 REST API Project
+* Authentication system
+* Role & permission
+* Clean architecture
+
+🔹 Queue System Demo
+* Background jobs
+* Email queue using Redis
+
+📈 Current Focus
+* Improving API architecture
+* Learning Docker & DevOps
+* Building scalable SaaS applications
+
+📫 Contact Me
+* Email: 
+* LinkedIn: 
+* Fiverr/Upwork: 
