@@ -1,25 +1,12 @@
-
-
-<div align="center">
-
 # Ismail Hossain
-### Senior Full Stack Software Engineer 
+### Senior Full Stack Software Engineer 
 **Specializing in High-Performance SaaS Architecture & System Optimization**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Senior_Engineer-7+_Years-0052CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Laravel_%7C_Vue.js-FF2D20?style=flat-square&logo=laravel" />
-  <img src="https://img.shields.io/badge/Education-BCSE_3.55_GPA-orange?style=flat-square" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Senior_Engineer-7+_Years-0052CC?style=flat-square&logo=expert-city" />
+  <img src="https://img.shields.io/badge/Stack-Laravel_%7C_Vue.js-FF2D20?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/Focus-System_Scale-00b894?style=flat-square" />
 </p>
-
----
-
-### 🖋️ Professional Narrative
-[cite_start]I architect and optimize mission-critical web ecosystems[cite: 2]. [cite_start]With over 7 years of engineering experience, I specialize in the **Laravel/Vue.js** stack, delivering high-concurrency solutions for global markets including the **USA, EU, and Australia**[cite: 2, 43, 45]. [cite_start]My work is defined by a rigorous commitment to **latency reduction**, **SaaS scalability**, and **clean, SOLID architecture**[cite: 3].
-
-[**Portfolio**](https://ismail.picodeit.com) • [**LinkedIn**](https://linkedin.com/in/ismailhossain94) • [**Contact**](mailto:ismail32cse@gmail.com)
-
-</div>
 
 ---
 
